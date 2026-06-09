@@ -1,4 +1,4 @@
-%frame = randn(2000,2000);
+frame = randn(2000,2000);
 
 % code to test
 
